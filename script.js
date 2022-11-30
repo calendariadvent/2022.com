@@ -97,7 +97,7 @@ var moreInfo = [
                     title: "Vídeo dels pastorets",
                     content: "Vídeo d'àngels, dimonis i pastors, és a dir, els pastorets! En aquest vídeo podreu veure els pastorets que vau fer de petits.",
                     linkUrl: "https://drive.google.com/file/d/1aPo4f0miYO-cJ1ilWFp_sCHkn2-pEq_A/view?usp=share_link",
-                    linkText:"Imatge",
+                    linkText:"Vídeo",
                     
                   },
 
